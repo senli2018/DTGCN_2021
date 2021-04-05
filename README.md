@@ -7,6 +7,7 @@ The image samples can be downloaded in [Dataset](https://data.mendeley.com/datas
 
 The code in this page is for three tasks of multi-stage malaria parasite recognition, large-scale malaria parasite recognition, and babesia parasite recognition. To conduct experiments, please revised the parameters of 'source_path' and 'target_path' in 'config.py' by related pathes of training and testing data for each task .
 
+Taking multi-stage malaria parasite recognition task as an example, we should firstly revise the parameters source_path=r'training data path of multi-stage malaria recognition' and target_path =r'testing data path of multi-stage malaria recognition', then directly run train.py to begin the code execution, which will automatically train the model and output the testing results along with training process.
 
 #Detailed Setting
 We have released the code under a OSI compliant license (MIT) with a license file in GitHub (https://github.com/senli2018/DTGCN) and mentioned in our paper.
