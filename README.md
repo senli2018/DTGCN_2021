@@ -5,7 +5,7 @@ This page shows the original code and data samples of the paper 'Multi-Stage Mal
 
 The image samples can be downloaded in [Dataset](https://data.mendeley.com/datasets/2y232dgw36/draft?a=1ab70b62-66c1-4e06-923c-8a86c4deaca0).
 
-The code in this page is for multi-stage malaria prasites recognition. Please revised the parameters in 'config.py' when conduct on other datasets.
+The code in this page is for three tasks of multi-stage malaria parasite recognition, large-scale malaria parasite recognition, and babesia parasite recognition. To conduct experiments, please revised the parameters of 'source_path' and 'target_path' in 'config.py' by related pathes of training and testing data for each task .
 
 
 #Detailed Setting
