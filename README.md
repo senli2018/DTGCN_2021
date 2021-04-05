@@ -12,7 +12,7 @@ Taking multi-stage malaria parasite recognition task as an example, we should fi
 #Detailed Setting
 We have released the code under a OSI compliant license (MIT) with a license file in GitHub (https://github.com/senli2018/DTGCN) and mentioned in our paper.
 
-The code and trained model can be downloaded from GitHub, and the detail information is described below.
+Besides, the running environment and requirements are described below.
 
 Running Environment
 
