@@ -40,3 +40,4 @@ Parameters in our method has been set in the code, and can be directly run.
 
 Besides, we also release the codes of all compared methods in our paper, including VggNet, ResNet, GoogLeNet, Reference 22-25, Baseline, Ours+KNN, Ours+ResNet34, Ours+Res50, and evaluation of train_size. These codes are compressed in the 'compared methods.zip', and their executions are also following the steps of DTGCN code, with revising the data pathes in 'config.py'.
 
+Note that, this paper conducts three types of experiments, including multi-stage malaria parasite recognition, large scale malaria parasites recognition, and Babesia parasite recognition. The experiments of DTGCN and compared methods utilize the same training and testing images in each type of experiments, and the details are summarized in the attached Table 1.
