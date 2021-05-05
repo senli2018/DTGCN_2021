@@ -14,7 +14,7 @@ Taking multi-stage malaria parasite recognition task as an example, its experime
 3. Run train.py to begin the code execution, which will automatically train the model and output the testing results along with training process.
 
 #Detailed Setting
-We have released the code under a OSI compliant license (MIT) with a license file in GitHub (https://github.com/senli2018/DTGCN) and mentioned in our paper.
+We have released the code under a OSI compliant license (MIT) with a license file in GitHub (https://github.com/senli2018/DTGCN_2021) and mentioned in our paper.
 
 Besides, the running environment and requirements are described below.
 
